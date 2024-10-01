@@ -5,3 +5,8 @@ This project is to play around with the uses of some cheap chinese 4x4 button ma
 - Adafruit GFX
 - Adafruit SSD1306
 - [Keypad](https://github.com/Chris--A/Keypad)
+
+## Hardware
+- ESP32 DevKitV1
+- SSD1306 OLED (white)
+- Qifei 4x4 Keypad(?) **(QYF-JP01)**
